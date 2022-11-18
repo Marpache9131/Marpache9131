@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a software developer who likes to improve/automate processes for enterprises by giving them a solution to improve performance 💻
 
 ![Marpache9131 Github Stats](https://github-readme-stats.vercel.app/api?username=Marpache9131&show_icons=true&theme=radical)
 
