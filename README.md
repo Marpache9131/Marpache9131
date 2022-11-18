@@ -2,6 +2,8 @@
 
 
 ![Marpache9131 Github Stats](https://github-readme-stats.vercel.app/api?username=Marpache9131&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marpache9131&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Marpache9131/Marpache9131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
